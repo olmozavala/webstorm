@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdHhcPg==</entry>
         <entry>particeTo</entry>
         <entry>rgb</entry>
         <entry>canvasS</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxnZW9Ub0NhbnZhc1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVBbmltYXRpb25cPg==</entry>
         <entry encoding="base64">XDxkcmF3TmV4dERheVw+</entry>
+        <entry encoding="base64">Jg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/, /,/\r/g</entry>
         <entry>s/, /,/\n/g</entry>
         <entry>s/, /\r/g</entry>
         <entry>.,80s/'',:/g</entry>
@@ -46,6 +45,7 @@
         <entry>:w</entry>
         <entry>vs</entry>
         <entry>we</entry>
+        <entry encoding="base64">cy8mL1xyL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -98,6 +98,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -153,12 +156,12 @@
         <mark key="." line="238" column="0" />
         <mark key="^" line="242" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" timestamp="1589199551662">
-        <mark key="'" line="61" column="54" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" timestamp="1589208838698">
+        <mark key="'" line="38" column="368" />
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="35" column="33" />
+        <mark key="^" line="38" column="369" />
+        <mark key="." line="35" column="33" />
       </file>
       <file name="/" timestamp="1589198625826">
         <mark key="[" line="0" column="0" />
@@ -180,8 +183,8 @@
         <mark key="^" line="425" column="17" />
         <mark key="." line="425" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589197921466">
-        <mark key="'" line="264" column="21" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589208918407">
+        <mark key="'" line="540" column="0" />
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="84" />
         <mark key="^" line="220" column="42" />
@@ -215,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="32" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="394" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="731" column="39" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/common/JS/src/ncwms/streamlines/AnimationStreamlines.js" />
       <jump line="406" column="9" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/common/JS/src/ncwms/streamlines/particles.js" />
       <jump line="274" column="23" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/common/JS/src/ncwms/streamlines/particles.js" />
       <jump line="186" column="22" filename="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/common/JS/src/ncwms/streamlines/particles.js" />
@@ -315,51 +315,62 @@
       <jump line="115" column="36" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="225" column="17" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="261" column="21" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="34" column="368" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" />
+      <jump line="38" column="368" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" />
+      <jump line="540" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>#27AA53</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcmF3TmV4dERheVw+</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB1cmw6J2h0dHA6Ly8xNDYuMjAxLjIxMi4yMTQ6ODA4MC9uY1dNUzIvd21zJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYERvbWFpbjogJHtkb21haW59ICBFeHRlbnQ6ICR7bG9jZXh0ZW50fSAgU2l6ZTogJHtsb2NzaXplfWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>SERVICE=WMS
+VERSION=1.1.1
+REQUEST=GetMap
+SRS=EPSG%3A4326
+BBOX=-26.4,-36.24,-18.72,-28.56
+WIDTH=256
+HEIGHT=256</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGBEb21haW46ICR7ZG9tYWlufSAgRXh0ZW50OiAke2xvY2V4dGVudH0gIFNpemU6ICR7bG9jc2l6ZX1gKQo=</text>
+      <register name="4" type="4">
+        <text>ABOVEMAXCOLOR=0x000000
+BELOWMINCOLOR=0x000000
+BGCOLOR=transparent</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIGxldCBkb21haW4gPSBbTWF0aC5hYnMoZXh0ZW50WzJdIC0gZXh0ZW50WzBdKSwgTWF0aC5hYnMoZXh0ZW50WzNdIC0gZXh0ZW50WzFdKV0KICAgICAgICAgICAgICAgIGxldCBsb2NleHRlbnQgPSBbZXh0ZW50WzBdLCBleHRlbnRbMV1dCiAgICAgICAgICAgICAgICBsZXQgbG9jc2l6ZSA9IFtzaXplWzBdLCBzaXplWzFdXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">TEFZRVJTPXVuX21sJTJGaGlzdG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy51cGRhdGVBbmltYXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cDovL2xvY2FsaG9zdDo4MDgwL25jV01TMi93bXM/Rk9STUFUPWltYWdlJTJGcG5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">VFJBTlNQQVJFTlQ9VFJVRQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FCT1ZFTUFYQ09MT1InOidleHRlbmQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U1RZTEVTPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -368,11 +379,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkcmF3TmV4dERheVw+</last-search>
+      <last-search encoding="base64">Jg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcmF3TmV4dERheVw+</last-pattern>
-      <last-replace>readThreeReadJSON</last-replace>
-      <last-substitute encoding="base64">XDxyZWFkRGF0YVw+</last-substitute>
+      <last-pattern encoding="base64">Jg==</last-pattern>
+      <last-replace>\r</last-replace>
+      <last-substitute encoding="base64">Jg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
