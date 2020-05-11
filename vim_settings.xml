@@ -153,12 +153,12 @@
         <mark key="." line="238" column="0" />
         <mark key="^" line="242" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" timestamp="1589198946008">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" timestamp="1589199551662">
         <mark key="'" line="61" column="54" />
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="32" column="33" />
-        <mark key="." line="32" column="32" />
-        <mark key="^" line="32" column="33" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="/" timestamp="1589198625826">
         <mark key="[" line="0" column="0" />
@@ -319,20 +319,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYERvbWFpbjogJHtkb21haW59ICBFeHRlbnQ6ICR7bG9jZXh0ZW50fSAgU2l6ZTogJHtsb2NzaXplfWApCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="+" type="4">
         <text>#27AA53</text>
       </register>
       <register name="-" type="4">
-        <text>STATUS.paused</text>
+        <text encoding="base64">ZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcmF3TmV4dERheVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>this.state.status</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1cmw6J2h0dHA6Ly8xNDYuMjAxLjIxMi4yMTQ6ODA4MC9uY1dNUzIvd21zJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYERvbWFpbjogJHtkb21haW59ICBFeHRlbnQ6ICR7bG9jZXh0ZW50fSAgU2l6ZTogJHtsb2NzaXplfWApCg==</text>
