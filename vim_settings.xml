@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RlZF9tb2RlXD4=</entry>
-        <entry encoding="base64">XDxibG9iXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVBbmltYXRpb25cPg==</entry>
         <entry>upda</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9tb2RlbFw+</entry>
@@ -25,15 +23,15 @@
         <entry>blob</entry>
         <entry>readOne</entry>
         <entry>readTwo</entry>
+        <entry>readThree</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>.,81s/''/: '/g</entry>
         <entry>.,161s/ocean/continent/g</entry>
         <entry>%s//clickEvent/g</entry>
         <entry>%s//readOneZip/g</entry>
         <entry>%s//readTwoUnzippedFile/g</entry>
         <entry>%s//readThreeReadJSON/g</entry>
-        <entry>wall</entry>
         <entry>:w</entry>
         <entry encoding="base64">cy8mL1xyL2c=</entry>
         <entry>%s//toogleHistogramLayer/g</entry>
@@ -46,6 +44,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
         <entry>sp</entry>
+        <entry>wall</entry>
+        <entry>s/&quot;/`/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -173,12 +173,12 @@
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589276373452">
-        <mark key="'" line="365" column="23" />
-        <mark key="[" line="358" column="71" />
-        <mark key="]" line="359" column="48" />
-        <mark key="." line="359" column="47" />
-        <mark key="^" line="359" column="48" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589278908564">
+        <mark key="'" line="135" column="62" />
+        <mark key="[" line="178" column="18" />
+        <mark key="]" line="178" column="18" />
+        <mark key="." line="178" column="18" />
+        <mark key="^" line="135" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/ol/style/Style.js" timestamp="1588262537427">
         <mark key="'" line="0" column="0" />
@@ -211,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="155" column="20" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="87" column="76" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="146" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
@@ -290,7 +289,6 @@
       <jump line="35" column="19" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="72" column="32" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="114" column="36" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="135" column="15" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="208" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="360" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="116" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -311,51 +309,59 @@
       <jump line="117" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="218" column="6" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="365" column="23" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="184" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="135" column="62" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>data</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>readTwo</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGQzLmJsb2IodXJsKS50aGVuKCBmdW5jdGlvbihibG9iKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucmVhZE9uZVppcChibG9iLCBpKQogICAgICAgICAgICAgICAgfS5iaW5kKHRoaXMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ly8gZm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7Ci8vICAgICAvLyBmb3IobGV0IGkgPSAwOyBpIDwgc2VsZWN0ZWRfbW9kZWwubnVtX2ZpbGVzOyBpKyspewovLyAgICAgbGV0IHVybCA9IGAke3RoaXMucHJvcHMudXJsfS8ke3RoaXMucHJvcHMuc2VsZWN0ZWRfbW9kZWwuZmlsZX1fJHtpPDEwPycwJytpOml9LnppcGA7Ci8vICAgICBjb25zb2xlLmxvZygiQ2hhbmdlZCBtb2RlbDogIiwgdXJsKTsKLy8gICAgIGQzLmJsb2IodXJsKS50aGVuKHRoaXMucmVhZE9uZVppcCk7Ci8vIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlYWRUaHJlZVJlYWRKU09OID0gdGhpcy5yZWFkVGhyZWVSZWFkSlNPTi5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VsZWN0ZWRfbW9kZWwgPSB0aGlzLnByb3BzLnNlbGVjdGVkX21vZGVsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yKGxldCBpZmlsZSA9IDAsIGkgPCBzZWxlY3RlZF9tb2RlbAo=</text>
+      <register name="5" type="4">
+        <text>/**
+     * Main function that reads the json data
+     * @param data
+     */
+    readThreeReadJSON(data) {
+
+    }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGQzLmJsb2IodXJsKS50aGVuKHRoaXMucmVhZE9uZVppcCk7Cn0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiUmVhZGluZyBmaW5hbCBqc29uIGRhdGEhISEhISEhICIsIGRhdGEpOwogICAgICAgIHRoaXMuY291bnRyeV9rZXlzID0gT2JqZWN0LmtleXMoZGF0YSk7CiAgICAgICAgLy8gZml4aW5nIHRob3NlIHBhcnRpY2xlcyB0aGF0ICdqdW1wJyB0aGUgbWFwCiAgICAgICAgbGV0IHRvdGFsX3RpbWVzdGVwcyA9IGRhdGFbdGhpcy5jb3VudHJ5X2tleXNbMF1dWyJsYXRfbG9uIl1bMF1bMF0ubGVuZ3RoOwogICAgICAgIGZvcihsZXQgY190aW1lPTA7IGNfdGltZSA8IHRvdGFsX3RpbWVzdGVwcyAtIDE7IGNfdGltZSsrKXsKICAgICAgICAgICAgZm9yKGxldCBjdXJfY291bnRyeV9pZCA9IDA7IGN1cl9jb3VudHJ5X2lkIDwgdGhpcy5jb3VudHJ5X2tleXMubGVuZ3RoOyBjdXJfY291bnRyeV9pZCsrKSB7CiAgICAgICAgICAgICAgICBsZXQgY3VyX2NvdW50cnkgPSBkYXRhW3RoaXMuY291bnRyeV9rZXlzW2N1cl9jb3VudHJ5X2lkXV0KICAgICAgICAgICAgICAgIGxldCB0b3RfcGFydCA9IGN1cl9jb3VudHJ5WyJsYXRfbG9uIl1bMF0ubGVuZ3RoCiAgICAgICAgICAgICAgICBmb3IgKGxldCBwYXJ0X2lkID0gMDsgcGFydF9pZCA8IHRvdF9wYXJ0OyBwYXJ0X2lkKyspIHsKICAgICAgICAgICAgICAgICAgICBsZXQgbG9uID0gZGF0YVt0aGlzLmNvdW50cnlfa2V5c1tjdXJfY291bnRyeV9pZF1dWyJsYXRfbG9uIl1bMV1bcGFydF9pZF1bY190aW1lXQogICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gZGF0YVt0aGlzLmNvdW50cnlfa2V5c1tjdXJfY291bnRyeV9pZF1dWyJsYXRfbG9uIl1bMV1bcGFydF9pZF1bY190aW1lKzFdCiAgICAgICAgICAgICAgICAgICAgaWYoICgobG9uID4gMTcwKSAmJiAobmxvbiA8IC0xNzApKSB8fCAoKGxvbiA8IC0xNzApICYmIChubG9uID4gMTcwKSkgKXsKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVt0aGlzLmNvdW50cnlfa2V5c1tjdXJfY291bnRyeV9pZF1dWyJsYXRfbG9uIl1bMV1bcGFydF9pZF1bY190aW1lXSA9IDIwMAogICAgICAgICAgICAgICAgICAgICAgICBkYXRhW3RoaXMuY291bnRyeV9rZXlzW2N1cl9jb3VudHJ5X2lkXV1bImxhdF9sb24iXVsxXVtwYXJ0X2lkXVtjX3RpbWUrMV0gPSAyMDAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIHRoaXMuY291bnRyeV9uYW1lcyA9IHRoaXMuY291bnRyeV9rZXlzLm1hcCgoeCkgPT4geC50b0xvd2VyQ2FzZSgpKTsKICAgICAgICB0aGlzLm9jZWFuX25hbWVzID0gdGhpcy5jb3VudHJ5X2tleXMubWFwKCh4KSA9PiBkYXRhW3hdWydvY2VhbnMnXSk7CiAgICAgICAgdGhpcy5jb250aW5lbnRfbmFtZXMgPSB0aGlzLmNvdW50cnlfa2V5cy5tYXAoKHgpID0+IGRhdGFbeF1bJ2NvbnRpbmVudCddKTsKICAgICAgICB0aGlzLnRvdGFsX3RpbWVzdGVwcyA9IGRhdGFbdGhpcy5jb3VudHJ5X2tleXNbMF1dWyJsYXRfbG9uIl1bMF1bMF0ubGVuZ3RoOwoKICAgICAgICBjb25zb2xlLmxvZygiXHQgVG90YWwgdGltZXN0ZXBzOiAiLCB0aGlzLnRvdGFsX3RpbWVzdGVwcyk7CiAgICAgICAgLy8gY29uc29sZS5sb2coIlx0IENvdW50cmllcyBuYW1lczogIiwgdGhpcy5jb3VudHJ5X25hbWVzKTsKICAgICAgICAvLyBjb25zb2xlLmxvZygiXHQgT2NlYW4gbmFtZXM6ICIsIHRoaXMub2NlYW5fbmFtZXMpOwogICAgICAgIC8vIGNvbnNvbGUubG9nKCJcdCBDb250aW5lbnQgbmFtZXM6ICIsIHRoaXMuY29udGluZW50X25hbWVzKTsKCiAgICAgICAgbGV0IGNhbnZfbGF5ID0gbnVsbAogICAgICAgIGlmICh0aGlzLnN0YXRlLmNhbnZhc19sYXllciA9PT0gLTEpIHsKICAgICAgICAgICAgbGV0IGNhbnZfbGF5ID0gbmV3IEltYWdlTGF5ZXIoewogICAgICAgICAgICAgICAgc291cmNlOiBuZXcgSW1hZ2VDYW52YXNTb3VyY2UoewogICAgICAgICAgICAgICAgICAgIGNhbnZhc0Z1bmN0aW9uOiB0aGlzLmNhbnZhc0Z1bmN0aW9uCiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9KTsKICAgICAgICAgICAgdGhpcy5wcm9wcy5tYXAuYWRkTGF5ZXIoY2Fudl9sYXkpCiAgICAgICAgfQogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBjYW52YXNfbGF5ZXI6IGNhbnZfbGF5LAogICAgICAgICAgICBkYXRhOiBkYXRhCiAgICAgICAgfSkKICAgICAgICB0aGlzLnByb3BzLnVwZGF0ZUNvdW50cmllc0RhdGEodGhpcy5jb3VudHJ5X25hbWVzLCB0aGlzLm9jZWFuX25hbWVzLCB0aGlzLmNvbnRpbmVudF9uYW1lcykKICAgICAgICBjb25zb2xlLmxvZygiRG9uZSByZWFkaW5nISIp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzOiBTVEFUVVMucGF1c2VkCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZUFuaW1hdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Ly8gZm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7Ci8vICAgICAvLyBmb3IobGV0IGkgPSAwOyBpIDwgc2VsZWN0ZWRfbW9kZWwubnVtX2ZpbGVzOyBpKyspewovLyAgICAgbGV0IHVybCA9IGAke3RoaXMucHJvcHMudXJsfS8ke3RoaXMucHJvcHMuc2VsZWN0ZWRfbW9kZWwuZmlsZX1fJHtpPDEwPycwJytpOml9LnppcGA7Ci8vICAgICBjb25zb2xlLmxvZygiQ2hhbmdlZCBtb2RlbDogIiwgdXJsKTsKLy8gICAgIGQzLmJsb2IodXJsKS50aGVuKHRoaXMucmVhZE9uZVppcCk7Ci8vIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,11 +370,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>readTwo</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>readTwo</last-pattern>
-      <last-replace>selected_model</last-replace>
-      <last-substitute encoding="base64">XDxzZWxlY3RlZF9tb2RlXD4=</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>`</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
