@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9ncmVzc0Jhclw+</entry>
         <entry>pro</entry>
         <entry>Densi</entry>
         <entry encoding="base64">XDxuYnNwXD4=</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxuZXh0X3RpbWVcPg==</entry>
         <entry>clon</entry>
         <entry>170</entry>
+        <entry>175</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">cy8mL1xyL2c=</entry>
         <entry>%s//toogleHistogramLayer/g</entry>
         <entry>%s/;//g</entry>
         <entry>%s/$;//g</entry>
@@ -46,6 +45,7 @@
         <entry>s/'/`/g</entry>
         <entry>.,528s//country_start/g</entry>
         <entry>%s//file_number/g</entry>
+        <entry>s/175/179/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
