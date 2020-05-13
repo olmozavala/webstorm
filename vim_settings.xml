@@ -110,12 +110,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1589398660468">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1589399194123">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="16" column="46" />
+        <mark key="[" line="104" column="39" />
+        <mark key="]" line="104" column="44" />
+        <mark key="^" line="104" column="44" />
+        <mark key="." line="104" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/css/App.css" timestamp="1588270746380">
         <mark key="[" line="9" column="0" />
@@ -317,13 +317,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">WWVhcnMg</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">WWVhcnMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3bXNfdXJsXD4=</text>
