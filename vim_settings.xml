@@ -171,12 +171,12 @@
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589370962692">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589371024994">
         <mark key="'" line="110" column="13" />
-        <mark key="[" line="519" column="29" />
-        <mark key="]" line="520" column="25" />
-        <mark key="." line="520" column="24" />
-        <mark key="^" line="520" column="25" />
+        <mark key="[" line="493" column="58" />
+        <mark key="]" line="493" column="58" />
+        <mark key="." line="493" column="58" />
+        <mark key="^" line="493" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/ol/style/Style.js" timestamp="1588262537427">
         <mark key="'" line="0" column="0" />
@@ -314,13 +314,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
