@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pro</entry>
         <entry>Densi</entry>
         <entry encoding="base64">XDxuYnNwXD4=</entry>
         <entry>drawNe</entry>
@@ -25,9 +24,9 @@
         <entry>clon</entry>
         <entry>170</entry>
         <entry>175</entry>
+        <entry>179</entry>
       </history-search>
       <history-cmd>
-        <entry>%s//toogleHistogramLayer/g</entry>
         <entry>%s/;//g</entry>
         <entry>%s/$;//g</entry>
         <entry>%s/;$//g</entry>
@@ -46,6 +45,7 @@
         <entry>.,528s//country_start/g</entry>
         <entry>%s//file_number/g</entry>
         <entry>s/175/179/g</entry>
+        <entry>s/179/th/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -110,11 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1589305843182">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1589367340215">
         <mark key="'" line="245" column="0" />
         <mark key="[" line="118" column="19" />
-        <mark key="]" line="118" column="20" />
-        <mark key="^" line="114" column="39" />
+        <mark key="]" line="118" column="21" />
+        <mark key="^" line="118" column="21" />
         <mark key="." line="118" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/css/App.css" timestamp="1588270746380">
@@ -171,12 +171,12 @@
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589309627145">
-        <mark key="'" line="153" column="19" />
-        <mark key="[" line="153" column="93" />
-        <mark key="]" line="153" column="94" />
-        <mark key="." line="153" column="94" />
-        <mark key="^" line="153" column="37" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1589367567199">
+        <mark key="'" line="154" column="34" />
+        <mark key="[" line="482" column="107" />
+        <mark key="]" line="482" column="107" />
+        <mark key="^" line="482" column="93" />
+        <mark key="." line="482" column="107" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/ol/style/Style.js" timestamp="1588262537427">
         <mark key="'" line="0" column="0" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="458" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="460" column="38" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="464" column="98" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="165" column="44" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -309,51 +308,52 @@
       <jump line="477" column="25" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="522" column="69" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="153" column="19" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="154" column="34" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNsb24gPSBjbG9uIC0gMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gbmxvbiAtIDM2MAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiYgKG5sb24gIT09IDIwMCk=</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>oldpos[0], oldpos[1])</text>
+        <text encoding="base64">JiYgKG5sb24gIT09IDIwMCk=</text>
       </register>
       <register name="/" type="4">
-        <text>175</text>
+        <text>179</text>
       </register>
       <register name="0" type="4">
-        <text>this.state.time_step</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHRsb24gPSBjbG9uICsgMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCB0bmxvbiA9IG5sb24gKyAzNjAKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCh0bG9uID49IHRoaXMuc3RhdGUuZXh0ZW50WzBdKSAmJiAodG5sb24gPD0gdGhpcy5zdGF0ZS5leHRlbnRbMl0pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbGRwb3MgPSB0aGlzLmdlb1RvQ2FudmFzKHRsb24sIGNsYXQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXdwb3MgPSB0aGlzLmdlb1RvQ2FudmFzKHRubG9uLCBubGF0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY3R4Lm1vdmVUbyhvbGRwb3NbMF0sIG9sZHBvc1sxXSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN0eC5saW5lVG8obmV3cG9zWzBdLCBuZXdwb3NbMV0pCiAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNsb24gPSBjbG9uIC0gMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gbmxvbiAtIDM2MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNsb24gPSBjbG9uICsgMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gbmxvbiArIDM2MAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKChjbG9uID49IHRoaXMuc3RhdGUuZXh0ZW50WzBdKSAmJiAoY2xvbiA8PSB0aGlzLnN0YXRlLmV4dGVudFsyXSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9sZHBvcyA9IHRoaXMuZ2VvVG9DYW52YXMoY2xvbiAtIDM2MCwgY2xhdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld3BvcyA9IHRoaXMuZ2VvVG9DYW52YXMobmxvbiAtIDM2MCwgbmxhdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN0eC5tb3ZlVG8ob2xkcG9zWzBdLCBvbGRwb3NbMV0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdHgubGluZVRvKG5ld3Bvc1swXSwgbmV3cG9zWzFdKQogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY190aW1lICsrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2xkcG9zID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigobG9uID4gdGgpICYmIChubG9uIDwgLXRoKSl7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRfdGltZSA9IHRoaXMuc3RhdGUudGltZV9zdGVwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNsb24gPSBjbG9uIC0gMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gbmxvbiAtIDM2MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgRHJhd2luZyBsaW5lcyB0aW1lIHN0ZXA6ICR7c3RhcnRfdGltZX0gZmlsZSBudW1iZXI6ICR7ZmlsZV9udW1iZXJ9ICAgKGdsb2JhbCAke3RoaXMuc3RhdGUudGltZV9zdGVwfSlgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNsb24gPSBjbG9uICsgMzYwCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBubG9uID0gbmxvbiArIDM2MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coYGRvbWFpbiAke3RoaXMuc3RhdGUuZG9tYWlufSBjYW52YXMgJHt0aGlzLnN0YXRlLm9sX2NhbnZhc19zaXplfSAgZXh0ZW50ICR7dGhpcy5zdGF0ZS5leHRlbnR9YCkKICAgICAgICAgICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coYEZpbmFsOiB4MDogJHt4MH0geTA6ICR7eTB9IHgxOiAke3gxfSB5MTogJHt5MX0gYCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGBkb21haW4gJHt0aGlzLnN0YXRlLmRvbWFpbn0gY2FudmFzICR7dGhpcy5zdGF0ZS5vbF9jYW52YXNfc2l6ZX0gIGV4dGVudCAke3RoaXMuc3RhdGUuZXh0ZW50fWApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhgRmluYWw6IHgwOiAke3gwfSB5MDogJHt5MH0geDE6ICR7eDF9IHkxOiAke3kxfSBgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2xkcG9zID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKGBkb21haW4gJHt0aGlzLnN0YXRlLmRvbWFpbn0gY2FudmFzICR7dGhpcy5zdGF0ZS5vbF9jYW52YXNfc2l6ZX0gIGV4dGVudCAke3RoaXMuc3RhdGUuZXh0ZW50fWApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyhgRmluYWw6IHgwOiAke3gwfSB5MDogJHt5MH0geDE6ICR7eDF9IHkxOiAke3kxfSBgKQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRfdGltZSA9IHRoaXMuc3RhdGUudGltZV9zdGVwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -362,11 +362,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>175</last-search>
+      <last-search>179</last-search>
       <last-offset />
-      <last-pattern>175</last-pattern>
-      <last-replace>179</last-replace>
-      <last-substitute>175</last-substitute>
+      <last-pattern>179</last-pattern>
+      <last-replace>th</last-replace>
+      <last-substitute>179</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
