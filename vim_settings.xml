@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>;</entry>
-        <entry>MakePl</entry>
-        <entry>map_options</entry>
-        <entry encoding="base64">XDxjaGFydENvbnRhaW5lclw+</entry>
         <entry>Title</entry>
         <entry>title</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
@@ -25,6 +21,10 @@
         <entry encoding="base64">XDxzdGF0c1R5cGVcPg==</entry>
         <entry>MakePlot</entry>
         <entry encoding="base64">XDxtYWtlVGFibGVcPg==</entry>
+        <entry>props</entry>
+        <entry encoding="base64">XDxjaGFydENvbnRhaW5lckZyb21cPg==</entry>
+        <entry>pop</entry>
+        <entry encoding="base64">XDxwbG90X2xvYWRlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//loaded_files/g</entry>
@@ -134,12 +134,6 @@
       <file name="$USER_HOME$/Dropbox/OWGISV2_Projects/ALL_OWGIS/OWGIS_Website/OWGIS_V2/web/common/JS/src/ncwms/streamlines/AnimationStreamlines.js" timestamp="1588984892034">
         <mark key="'" line="506" column="73" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/Config.js" timestamp="1587229520163">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="75" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="3" column="71" />
-      </file>
       <file name="/fragment.js" timestamp="1589397671695">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,12 +144,14 @@
         <mark key="^" line="100" column="83" />
         <mark key="." line="100" column="82" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" timestamp="1589920091631">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="65" />
-        <mark key="." line="222" column="26" />
-        <mark key="^" line="222" column="27" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" timestamp="1589993387593">
+        <mark key="'" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" timestamp="1589996086234">
+        <mark key="'" line="207" column="58" />
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/index.js" timestamp="1589911487735">
         <mark key="'" line="51" column="18" />
@@ -177,12 +173,12 @@
       <file name="/JavaScript Console" timestamp="1589504530280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1589920286153">
-        <mark key="'" line="37" column="61" />
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="56" />
-        <mark key="." line="25" column="55" />
-        <mark key="^" line="25" column="56" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1589995838183">
+        <mark key="'" line="37" column="62" />
+        <mark key="[" line="103" column="46" />
+        <mark key="]" line="103" column="48" />
+        <mark key="." line="103" column="47" />
+        <mark key="^" line="103" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
@@ -220,27 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="47" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="7" column="7" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="75" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="74" column="15" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="72" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="7" column="25" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="54" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="86" column="6" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="95" column="29" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakeTable.js" />
-      <jump line="91" column="85" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakeTable.js" />
-      <jump line="43" column="20" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="21" column="43" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="22" column="44" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="31" column="35" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="204" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="207" column="28" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="185" column="27" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="183" column="30" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="48" column="30" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="45" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="46" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="53" column="37" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="19" column="15" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakeTable.js" />
@@ -293,12 +268,7 @@
       <jump line="5" column="15" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ShowPlot.js" />
       <jump line="19" column="8" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ShowPlot.js" />
       <jump line="14" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ShowPlot.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="222" column="22" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="221" column="58" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="215" column="35" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="208" column="28" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
-      <jump line="187" column="10" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="93" column="39" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="69" column="32" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="49" column="36" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
@@ -310,9 +280,7 @@
       <jump line="20" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="24" column="57" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="26" column="48" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="27" column="49" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="28" column="51" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
-      <jump line="37" column="15" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="19" column="19" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="25" column="61" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ShowPlot.js" />
@@ -320,51 +288,79 @@
       <jump line="176" column="6" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="8" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="71" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="100" column="64" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="28" column="27" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" />
+      <jump line="33" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/canvasjs.react.js" />
+      <jump line="60" column="29" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="120" column="61" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="31" column="47" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="29" column="66" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="198" column="34" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="185" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="186" column="45" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="187" column="10" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="208" column="28" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="209" column="34" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="214" column="30" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="215" column="35" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="216" column="44" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="217" column="30" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="218" column="30" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="221" column="58" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="37" column="62" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>from_el</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text encoding="base64">Zm9yKGxldCBpID0gMDsgaSA8IDE7IGkrKyl7CiAgICAgICAgICAgIC8vIGZvcihsZXQgaSA9IDA7IGkgPCBzZWxlY3RlZF9tb2RlbC5udW1fZmlsZXM7IGkrKyl7CiAgICAgICAgICAgICAgICBsZXQgdXJsID0gYCR7dGhpcy5wcm9wcy51cmx9LyR7dGhpcy5wcm9wcy5zZWxlY3RlZF9tb2RlbC5maWxlfV8ke2k8MTA/JzAnK2k6aX0uemlwYDsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJDaGFuZ2VkIG1vZGVsOiAiLCB1cmwpOwogICAgICAgICAgICAgICAgZDMuYmxvYih1cmwpLnRoZW4odGhpcy5yZWFkT25lWmlwKTsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>from_el</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlVGFibGVcPg==</text>
+        <text encoding="base64">XDxwbG90X2xvYWRlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9lbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjaGFydENvbnRhaW5lckZyb20nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMuc2hvd1N0YXRpc3RpY3MoJ2Zyb20nKX0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMuc2hvd1N0YXRpc3RpY3MoJ3RvJyl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3RoaXMuc2hvd1N0YXRpc3RpY3MoJ2Zyb20nKX0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBFcyB1biBkZXNtYWRyZSwgZXN0YSBsaW5lYSBUSUVORSBxdWUgaXIgYW50ZXMgZGVsIHVwZGF0ZSBvIHNlIHB1ZWRlIGNhbWJpYXIgbG9zIGNvbG9yZXMKICAgICAgICAgICAgICAgICAgICAvLyB2YXIgY29vcmRpbmF0ZSA9IGUuY29vcmRpbmF0ZTsKICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLnBvcHVwLnNldFBvc2l0aW9uKGNvb3JkaW5hdGUpOwogICAgICAgICAgICAgICAgICAgIC8vICQoZWxlbWVudCkucG9wb3Zlcih7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIHBsYWNlbWVudDogJ2xlZnQnLAogICAgICAgICAgICAgICAgICAgIC8vICAgICBhbmltYXRpb246IHRydWUsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgIGh0bWw6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgLy8gfSk7CiAgICAgICAgICAgICAgICAgICAgLy8gbGV0IG9sX3BvcHVwX2NvbnRhaW5lciA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlDbGFzc05hbWUoIm9sLXNlbGVjdGFibGUiKQogICAgICAgICAgICAgICAgICAgIC8vIFNldHRpbmcgdGhlIHBvcHVwIHdpdGggdGhlIHRhYmxlIHRvICdwYXNzcyB0aHJvdWdoJyB0aGUgbW91c2UgZXZlbnRzLiBUbyBiZSBhYmxlIHRvIHNjcm9sbCB0aGUgbWFwCiAgICAgICAgICAgICAgICAgICAgLy8gaWYoIV8uaXNVbmRlZmluZWQob2xfcG9wdXBfY29udGFpbmVyKSl7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIG9sX3BvcHVwX2NvbnRhaW5lclswXS5zdHlsZS5wb2ludGVyRXZlbnRzID0gIm5vbmUiCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIG9sX3BvcHVwX2NvbnRhaW5lclswXS5zdHlsZS53aWR0aD0gIjM0ZW0iCiAgICAgICAgICAgICAgICAgICAgLy8gfQ==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHRoaXMuY2hhcnQucmVuZGVyKCk7CgogICAgICAgIH0sMzAwMCk7</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICBwbG90X2xvYWRlZDogZmFsc2UKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpc2NoYXJ0ID0gW2NyZWF0ZSBjaGFydCBoZXJlXQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIC8vIGxldCBwb3B1cCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwb3B1cCcpCiAgICAgICAgICAgIC8vICQocG9wdXApLnNob3coMTAwKTsKICAgICAgICAgICAgLy8gd2luZG93LmRpc3BhdGNoRXZlbnQobmV3IEV2ZW50KCdyZXNpemUnKSk7CiAgICAgICAgLy8gfSwyMDApOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhdHNUeXBlID0gdGhpcy5wcm9wcy5zdGF0c190eXBlCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBsZXQgZnJvbV9lbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjaGFydENvbnRhaW5lckZyb20nKQogICAgICAgIGxldCB0b19lbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjaGFydENvbnRhaW5lclRvJykKICAgICAgICBSZWFjdERPTS5yZW5kZXIoKSwgZnJvbV9lbCk7CiAgICAgICAgUmVhY3RET00ucmVuZGVyKHRoaXMuc2hvd1N0YXRpc3RpY3MoJ3RvJyksIHRvX2VsKTsKICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgICAgcGxvdF9sb2FkZWQ6IHRydWUKICAgICAgICB9KQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IENhbnZhc0pTUmVhY3QgZnJvbSAiLi9jYW52YXNqcy5yZWFjdCI7CmltcG9ydCBDYW52YXNKUyBmcm9tICIuL2NhbnZhc2pzLm1pbi5qcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -373,9 +369,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYWtlVGFibGVcPg==</last-search>
+      <last-search encoding="base64">XDxwbG90X2xvYWRlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlVGFibGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbG90X2xvYWRlZFw+</last-pattern>
       <last-replace>,\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
