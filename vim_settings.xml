@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVBbGxEYXRhXD4=</entry>
-        <entry encoding="base64">XDxyZWFkVHdvVW56aXBwZWRGaWxlXD4=</entry>
         <entry encoding="base64">XDxyZWFkT25lWmlwXD4=</entry>
         <entry>this\.data</entry>
         <entry encoding="base64">XDxjdXJyZW50X2RhdGFcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0b29nbGVIaXN0b2dyYW1MYXllclw+</entry>
         <entry>map</entry>
         <entry>props\.map</entry>
+        <entry>all_names</entry>
+        <entry encoding="base64">XDxjb3VudHJ5X25hbWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,528s//country_start/g</entry>
@@ -180,8 +180,8 @@
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1590170627622">
-        <mark key="'" line="177" column="27" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1590181327671">
+        <mark key="'" line="95" column="12" />
         <mark key="[" line="994" column="81" />
         <mark key="]" line="994" column="110" />
         <mark key="." line="994" column="109" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="333" column="47" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="163" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="355" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -279,7 +278,6 @@
       <jump line="391" column="22" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="380" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="197" column="58" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="95" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="218" column="44" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="94" column="29" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -313,6 +311,8 @@
       <jump line="183" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="184" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="319" column="50" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="198" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="95" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +327,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>props\.map</text>
+        <text encoding="base64">XDxjb3VudHJ5X25hbWVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnByb3BzLm1hcC5nZXRTaXplKCkpCg==</text>
@@ -366,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>props\.map</last-search>
+      <last-search encoding="base64">XDxjb3VudHJ5X25hbWVzXD4=</last-search>
       <last-offset />
-      <last-pattern>props\.map</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHJ5X25hbWVzXD4=</last-pattern>
       <last-replace>div</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
