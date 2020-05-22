@@ -5,17 +5,12 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Button</entry>
-        <entry>Dom</entry>
-        <entry encoding="base64">XDxSZWFjdERPTVw+</entry>
-        <entry>show</entry>
         <entry encoding="base64">XDxwZXJjXD4=</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry>Upd</entry>
         <entry>!=</entry>
         <entry encoding="base64">XDx0aGlzX3BhcnRpY2xlX2lkeFw+</entry>
         <entry>One</entry>
-        <entry encoding="base64">XDxyZWFkT25lWmlwXD4=</entry>
         <entry encoding="base64">XDxjb3VudHJ5X25hbWVzXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50X2RhdGFcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDx0b3RhbF90aW1lc3RlcHNcPg==</entry>
         <entry>readOne</entry>
         <entry>total</entry>
+        <entry encoding="base64">XDx1cGRhdGVBbGxEYXRhXD4=</entry>
+        <entry encoding="base64">XDxyZWFkVHdvVW56aXBwZWRGaWxlXD4=</entry>
+        <entry encoding="base64">XDxyZWFkT25lWmlwXD4=</entry>
+        <entry>this\.data</entry>
+        <entry>this\.state\.data</entry>
       </history-search>
       <history-cmd>
         <entry>.,528s//country_start/g</entry>
@@ -41,11 +41,11 @@
         <entry>s/,/,\r/g</entry>
         <entry>.,.+3w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>vs</entry>
         <entry>q</entry>
         <entry>.,$s/span/div/gc</entry>
         <entry>wall</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -117,11 +117,12 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590022885421">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590162403617">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="104" column="16" />
-        <mark key="]" line="104" column="17" />
-        <mark key="." line="104" column="17" />
+        <mark key="[" line="91" column="1" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/css/App.css" timestamp="1590009276284">
         <mark key="'" line="30" column="62" />
@@ -180,12 +181,12 @@
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1590025287115">
-        <mark key="'" line="350" column="49" />
-        <mark key="[" line="341" column="26" />
-        <mark key="]" line="341" column="26" />
-        <mark key="^" line="216" column="12" />
-        <mark key="." line="341" column="26" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" timestamp="1590163278131">
+        <mark key="'" line="203" column="26" />
+        <mark key="[" line="204" column="75" />
+        <mark key="]" line="204" column="77" />
+        <mark key="^" line="204" column="77" />
+        <mark key="." line="204" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/ol/style/Style.js" timestamp="1588262537427">
         <mark key="'" line="0" column="0" />
@@ -213,14 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="443" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="525" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="110" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="430" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="109" column="37" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="708" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="324" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="126" column="34" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="315" column="32" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="316" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="704" column="13" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -286,8 +279,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="163" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="154" column="20" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="66" column="23" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="108" column="45" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="355" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="207" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="178" column="49" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -312,7 +303,17 @@
       <jump line="161" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="177" column="38" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="286" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
-      <jump line="350" column="49" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="307" column="35" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="135" column="34" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="239" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="350" column="50" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="378" column="40" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="139" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="366" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="108" column="45" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="125" column="31" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="66" column="23" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="203" column="26" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +328,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>total</text>
+        <text>this\.state\.data</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBjYW52YXNfbGF5ZXI6IGNhbnZfbGF5LAogICAgICAgICAgICAgICAgZGF0YTogey4uLnRoaXMuc3RhdGUuZGF0YSwgLi4uY3VycmVudF9kYXRhfSwKICAgICAgICAgICAgICAgIGxvYWRlZF9maWxlczogdGhpcy5zdGF0ZS5sb2FkZWRfZmlsZXMgKyAxLAogICAgICAgICAgICAgICAgY29udGluZW50X25hbWVzOiBjb250aW5lbnRfbmFtZXMsCiAgICAgICAgICAgICAgICBjb3VudHJ5X25hbWVzOiBjb3VudHJ5X25hbWVzLAogICAgICAgICAgICAgICAgb2NlYW5fbmFtZXM6IG9jZWFuX25hbWVzLAogICAgICAgICAgICAgICAgdG90YWxfdGltZXN0ZXBzOiB0aGlzLnN0YXRlLnRvdGFsX3RpbWVzdGVwcyArIHRvdGFsX3RpbWVzdGVwcywKICAgICAgICAgICAgICAgIHN0YXR1czogY3VyX3N0YXRlLAogICAgICAgICAgICAgICAgaW5kZXhfYnlfY291bnRyeTogZ2xvYmFsX2luZGV4X2J5X2NvdW50cnkKICAgICAgICAgICAgfSk=</text>
@@ -366,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWFkT25lWmlwXD4=</last-search>
+      <last-search>this\.state\.data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkT25lWmlwXD4=</last-pattern>
+      <last-pattern>this\.state\.data</last-pattern>
       <last-replace>div</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
