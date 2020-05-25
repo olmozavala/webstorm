@@ -117,8 +117,8 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590180353642">
-        <mark key="'" line="328" column="50" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590429368374">
+        <mark key="'" line="235" column="0" />
         <mark key="[" line="280" column="23" />
         <mark key="]" line="280" column="24" />
         <mark key="^" line="174" column="70" />
@@ -216,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="52" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="213" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="221" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="343" column="54" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
@@ -316,6 +315,7 @@
       <jump line="934" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="989" column="58" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="101" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="235" column="0" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
