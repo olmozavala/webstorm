@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b0xvd2VyQ2FzZVw+</entry>
         <entry encoding="base64">XDxjb2xvcnNfYnlfY291bnRyeVw+</entry>
         <entry encoding="base64">XDxnZXRDb2xvckJ5Q291bnRyeVw+</entry>
         <entry encoding="base64">XDxjb2xvcnNCeUNvdW50cnlcPg==</entry>
@@ -25,9 +24,9 @@
         <entry>000000</entry>
         <entry>Model ti</entry>
         <entry>Canvas</entry>
+        <entry encoding="base64">XDx0YWJsZV9oZWlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s/,/,\r/g</entry>
         <entry>.,.+3w</entry>
         <entry>.,$s/span/div/gc</entry>
         <entry>wq</entry>
@@ -46,6 +45,7 @@
         <entry>%s//colors_by_country/g</entry>
         <entry>%s//states_layer/g</entry>
         <entry>%s//showPlot/g</entry>
+        <entry>%s//plot_height/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -174,12 +174,12 @@
       <file name="/JavaScript Console" timestamp="1590540582803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1590629754952">
-        <mark key="'" line="103" column="24" />
-        <mark key="[" line="92" column="115" />
-        <mark key="]" line="93" column="34" />
-        <mark key="." line="93" column="33" />
-        <mark key="^" line="93" column="34" />
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1590631104589">
+        <mark key="'" line="73" column="17" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="35" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
@@ -216,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="44" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="174" column="37" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="200" column="2" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="236" column="52" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="77" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="270" column="46" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
@@ -316,21 +313,24 @@
       <jump line="162" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="206" column="37" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
       <jump line="242" column="9" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticlesLayer.js" />
+      <jump line="46" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="47" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
+      <jump line="73" column="17" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>200</text>
       </register>
       <register name="+" type="4">
         <text>#57EBDE</text>
       </register>
       <register name="-" type="4">
-        <text>ffc600</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
-        <text>Canvas</text>
+        <text encoding="base64">XDx0YWJsZV9oZWlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>ffc600</text>
@@ -369,11 +369,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Canvas</last-search>
+      <last-search encoding="base64">XDx0YWJsZV9oZWlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern>Canvas</last-pattern>
-      <last-replace>showPlot</last-replace>
-      <last-substitute encoding="base64">XDxtYWtlVGFibGVcPg==</last-substitute>
+      <last-pattern encoding="base64">XDx0YWJsZV9oZWlnaHRcPg==</last-pattern>
+      <last-replace>plot_height</last-replace>
+      <last-substitute encoding="base64">XDx0YWJsZV9oZWlnaHRcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
