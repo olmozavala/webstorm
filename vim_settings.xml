@@ -45,8 +45,8 @@
         <entry>vs</entry>
         <entry>:w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -174,12 +174,12 @@
       <file name="/JavaScript Console" timestamp="1590676934728">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1590683940047">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/MakePlot.js" timestamp="1590683996749">
         <mark key="'" line="10" column="36" />
-        <mark key="[" line="97" column="67" />
-        <mark key="]" line="97" column="71" />
+        <mark key="[" line="97" column="63" />
+        <mark key="]" line="97" column="63" />
         <mark key="^" line="97" column="71" />
-        <mark key="." line="97" column="70" />
+        <mark key="." line="97" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/node_modules/underscore/underscore.js" timestamp="1589213303774">
         <mark key="'" line="1173" column="3" />
@@ -322,14 +322,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBhbGljZWJsdWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGJnLWluZm8=</text>
       </register>
       <register name="+" type="4">
         <text>#57EBDE</text>
       </register>
       <register name="-" type="4">
-        <text>col</text>
+        <text encoding="base64">IGJnLWluZm8=</text>
       </register>
       <register name="/" type="4">
         <text>hide</text>
@@ -375,7 +375,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wall</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
