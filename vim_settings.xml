@@ -19,12 +19,12 @@
         <entry encoding="base64">XDxnZXRIaXN0b2dyYW1Tb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZF9hbHBoYVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVNaW5NYXhcPg==</entry>
         <entry>By</entry>
         <entry>ByI</entry>
         <entry>max</entry>
         <entry>hei</entry>
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVNaW5NYXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -120,12 +120,12 @@
         <mark key="^" line="17" column="27" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590709121413">
+      <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" timestamp="1590713672862">
         <mark key="a" line="218" column="4" />
-        <mark key="[" line="323" column="22" />
-        <mark key="]" line="324" column="21" />
-        <mark key="." line="324" column="20" />
-        <mark key="^" line="324" column="21" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="391" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/css/App.css" timestamp="1590708451645">
         <mark key="'" line="43" column="13" />
@@ -219,10 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="40" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="319" column="4" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="73" column="37" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
-      <jump line="255" column="49" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="238" column="42" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="76" column="42" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/StatesLayer.js" />
       <jump line="387" column="29" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
@@ -319,51 +315,55 @@
       <jump line="327" column="24" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="289" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
       <jump line="323" column="12" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="389" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="164" column="16" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="316" column="7" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
+      <jump line="392" column="14" filename="$USER_HOME$/Desktop/REMOTE_PROJECTS/Web_Visualizer/src/ParticleVizManager.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0gMzAs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluX3BhbDogMSwK</text>
       </register>
       <register name="+" type="4">
         <text>#57EBDE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gMzAs</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWlnaHRcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVNaW5NYXhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgid2wtcGFsZXR0ZSIpLm9mZnNldEhlaWdodCAtIDMwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX3BhOiBuZXdfc2VsZWN0ZWRfbW9kZWwubWluX3BhbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAzMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX3BhbDogMSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBoZWlnaHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluX3BhbDogbmV3X3NlbGVjdGVkX21vZGVsLm1pbl9wYWwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaGVpZ2h0ID0gcGFyc2VJbnQod2luZG93LmlubmVySGVpZ2h0ICogLjMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluXwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByb3VuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAzMCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBoZWlnaHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDIwCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaGVpZ2h0ID0gcGFyc2VJbnQod2luZG93LmlubmVySGVpZ2h0ICogLjMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgMTAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDIwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyBwLTAgbS0wIj4K</text>
+        <text encoding="base64">ICByb3VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -372,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVNaW5NYXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVNaW5NYXhcPg==</last-pattern>
       <last-replace>min</last-replace>
       <last-substitute>max</last-substitute>
       <last-dir>1</last-dir>
